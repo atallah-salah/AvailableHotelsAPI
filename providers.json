@@ -1,0 +1,4 @@
+{
+    "/BestHotels":{"name":"BestHotels","route":"/BestHotels" ,"url":"http://127.0.0.1:8080/BestHotels","active":true},
+    "/CrazyHotels":{"name":"CrazyHotels","route":"/CrazyHotels","url":"http://127.0.0.1:8080/CrazyHotels","active":true}
+}
