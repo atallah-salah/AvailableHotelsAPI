@@ -10,5 +10,5 @@ AvailableHotelsAPI have nodeJS server and it's have a json file with all provide
  * use npm install
  * run the server using $ node index.js  
 
-# Note:
+# Note :
   * code not coverd by unit test
