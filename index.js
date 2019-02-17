@@ -18,17 +18,6 @@ Object.keys(providers).filter((provider)=>{
     }
 })
 
-
-
-let testRequest={body:{
-    fromDate:'2015-11-05T14:48:00.000Z',
-    toDate:'2015-11-05T14:48:00.000Z',
-    city:'AUH',
-    numberOfAdults:4
-}}
-
-console.log(checkRequest.checkRequest(testRequest));
-
 // AvailableHotels provider
 app.get('/AvailableHotels',(request,response)=> {
     // check request
